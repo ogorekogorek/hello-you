@@ -1,2 +1,2 @@
 # hello-you
-this the great optional description of my repository
+This is the great Optional description of my repository!!!
